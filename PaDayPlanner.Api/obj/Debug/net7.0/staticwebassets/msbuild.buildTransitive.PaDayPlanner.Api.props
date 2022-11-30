@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/PaDayPlanner.Api.props" />
+</Project>

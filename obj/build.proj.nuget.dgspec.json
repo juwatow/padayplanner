@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jeanne/Documents/workspace/padayplanner/build.proj": {}
+  },
+  "projects": {
+    "/Users/jeanne/Documents/workspace/padayplanner/build.proj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jeanne/Documents/workspace/padayplanner/build.proj",
+        "projectName": "build",
+        "projectPath": "/Users/jeanne/Documents/workspace/padayplanner/build.proj",
+        "packagesPath": "/Users/jeanne/.nuget/packages/",
+        "outputPath": "/Users/jeanne/Documents/workspace/padayplanner/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jeanne/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

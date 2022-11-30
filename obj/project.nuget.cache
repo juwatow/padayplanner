@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nOuDYG4R8kKPkt2CGlXIcemd5wCskrv/iTSHicKA2sXmLHcZ2qQXuyab0vStmNr7MlwZ/a2zr0Oh5cHc3qPVvQ==",
+  "success": true,
+  "projectFilePath": "/Users/jeanne/Documents/workspace/padayplanner/build.proj",
+  "expectedPackageFiles": [
+    "/Users/jeanne/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/Users/jeanne/.nuget/packages/microsoft.netframework.referenceassemblies.net45/1.0.2/microsoft.netframework.referenceassemblies.net45.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
